@@ -1,0 +1,33 @@
+@charset "utf-8";
+.first-class {
+    background-color: #DAFFCF;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    max-width: 500px;
+}
+
+#main-title {
+    font-family: Times New Roman, serif;
+    font-size: 2.5em;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.my-class {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 1.06em;
+    font-weight: 100;
+    border: thick dotted #400386;
+    background-color: #ECD8FF;
+    padding: inherit;
+    text-align: center;
+    max-width: 500px;
+}
+
+#my-id {
+    font-family: Times New Roman, serif;
+    font-style: normal;
+    font-weight: bold;
+	font-size: 0.85em;
+}
